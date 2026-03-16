@@ -1,0 +1,20 @@
+{
+  "generated": "2026-03-16",
+  "pages": {
+    "index": {"status":"planned","priority":0},
+    "bonfire-night-uk": {"status":"planned","priority":1},
+    "bonfire-night-london": {"status":"planned","priority":2},
+    "fireworks-displays-near-me": {"status":"planned","priority":3},
+    "guy-fawkes-history": {"status":"planned","priority":4},
+
+    "harrow-fireworks": {"status":"planned","priority":10},
+    "wembley-fireworks": {"status":"planned","priority":11},
+    "ealing-fireworks": {"status":"planned","priority":12},
+    "hillingdon-fireworks": {"status":"planned","priority":13},
+
+    "fireworks-safety-guide": {"status":"planned"},
+    "bonfire-night-with-kids": {"status":"planned"},
+    "best-fireworks-displays-london": {"status":"planned"},
+    "bonfire-night-events-calendar": {"status":"planned"}
+  }
+}
